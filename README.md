@@ -7,6 +7,13 @@ It focuses on identifying sales trends, top and bottom performing products, and 
 
 ---
 
+## 📷 Dashboard Preview
+
+![Home Dashboard](images/home_dashboard.png)  
+![Best & Worst Analysis](images/best_worst_dashboard.png)
+
+---
+
 ## 🎯 Key Insights
 - Identified top 5 and bottom 5 pizzas based on revenue, quantity, and orders  
 - Analyzed daily and monthly order trends  
@@ -15,12 +22,9 @@ It focuses on identifying sales trends, top and bottom performing products, and 
 
 ---
 
-## 📊 Dashboard Features
-- KPI Metrics (Revenue, Orders, Avg Order Value, Pizzas Sold)  
-- Daily & Monthly Sales Trends  
-- Sales Distribution by Category & Size  
-- Top 5 & Bottom 5 Performing Pizzas  
-- Interactive filters for dynamic analysis  
+## 🛠️ Tools Used
+- SQL (T-SQL)
+- Power BI (Data Visualization)
 
 ---
 
@@ -36,9 +40,12 @@ SQL was used to perform data analysis and extract business insights before build
 
 ---
 
-## 🛠️ Tools Used
-- SQL  
-- Power BI  
+## 📊 Dashboard Features
+- KPI Metrics (Revenue, Orders, Avg Order Value, Pizzas Sold)  
+- Daily & Monthly Sales Trends  
+- Sales Distribution by Category & Size  
+- Top 5 & Bottom 5 Performing Pizzas  
+- Interactive filters for dynamic analysis  
 
 ---
 
@@ -59,13 +66,6 @@ pizza-sales-powerbi-dashboard/
 ├── Pizza_Sales_Report.pbix
 └── README.md
 ```
----
-
-## 📷 Dashboard Preview
-
-![Home Dashboard](images/home_dashboard.png)  
-![Best & Worst Analysis](images/best_worst_dashboard.png)
-
 ---
 
 ## 🚀 How to Use
