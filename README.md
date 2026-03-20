@@ -77,7 +77,7 @@ pizza-sales-powerbi-dashboard/
 
 ## 👨‍💻 About Me
 
-Hi, I'm Mandar Yangal — an aspiring Data Analyst with hands-on experience in SQL and Power BI, focused on data-driven decision-making and delivering business insights.
+Hi, I'm Mandar Yangal — a data enthusiast with experience in SQL, Python, and data workflows. I enjoy working across different areas of data including analysis, engineering, and visualization to solve problems and derive insights.
 
 ---
 
